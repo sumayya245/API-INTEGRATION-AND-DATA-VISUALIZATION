@@ -54,3 +54,6 @@ How the Task is Accomplished
 4. Display the Visualization
    - Finally, the visualization is displayed to the user. The result is a graph that provides insights into weather patterns, making it easier to interpret the forecast.
 
+#OUTPUT
+
+<img width="1910" height="1014" alt="Image" src="https://github.com/user-attachments/assets/2c8c391f-1edd-43d9-9148-e32b2ae59f5c" />
